@@ -2,7 +2,7 @@ function Footer() {
 
   return (
     <div id="footer">
-      <div>
+      <div id="footerContent">
         ©2024 Cassidy Pagels
       </div>
       <div>
