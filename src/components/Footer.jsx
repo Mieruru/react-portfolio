@@ -1,3 +1,6 @@
+import * as React from 'react';
+import { Link } from 'react-router-dom';
+
 function Footer() {
 
   return (
@@ -6,7 +9,7 @@ function Footer() {
         ©2024 Cassidy Pagels
       </div>
       <div>
-        <button> Contact Me</button>
+        <Link to='/Contact'><button>Contact Me</button></Link>
       </div>
     </div>
   );

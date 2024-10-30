@@ -1,4 +1,4 @@
-function Body() {
+function Home() {
 
   return (
     <div>
@@ -7,4 +7,4 @@ function Body() {
   );
 }
 
-export default Body;
+export default Home;
