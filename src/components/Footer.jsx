@@ -2,7 +2,12 @@ function Footer() {
 
   return (
     <div id="footer">
-      C2024 Cassidy Pagels
+      <div>
+        ©2024 Cassidy Pagels
+      </div>
+      <div>
+        <button> Contact Me</button>
+      </div>
     </div>
   );
 }

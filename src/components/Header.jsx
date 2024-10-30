@@ -2,9 +2,14 @@ function Header() {
 
   return (
     <div id="header">
-      <h1>
+      <h2>
         Welcome to Cassidy's Portfolio!
-      </h1>
+      </h2>
+      <div id="nav">
+        <button>About Me</button>
+        <button>Portfolio</button>
+        <button>Resume</button>
+      </div>
     </div>
   );
 }

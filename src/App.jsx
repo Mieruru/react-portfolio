@@ -8,7 +8,7 @@ function App() {
   return (
     <div id="pageContainer">
       <Header />
-      <div>
+      <div id="bodyContent">
         <Body />
       </div>
       <Footer />
