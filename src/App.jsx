@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './components/Header';
-import Body from './components/Body'
+import Home from './pages/Home'
 import Footer from './components/Footer'
 
 
@@ -9,7 +9,7 @@ function App() {
     <div id="pageContainer">
       <Header />
       <div id="bodyContent">
-        <Body />
+        <Home />
       </div>
       <Footer />
     </div>

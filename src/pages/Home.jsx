@@ -2,7 +2,7 @@ function Body() {
 
   return (
     <div>
-      Page under construction...
+      Home Page under construction...
     </div>
   );
 }
