@@ -1,8 +1,8 @@
 function Footer() {
 
   return (
-    <div>
-
+    <div id="footer">
+      C2024 Cassidy Pagels
     </div>
   );
 }

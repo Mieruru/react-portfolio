@@ -1,8 +1,10 @@
 function Header() {
 
   return (
-    <div>
-
+    <div id="header">
+      <h1>
+        Welcome to Cassidy's Portfolio!
+      </h1>
     </div>
   );
 }

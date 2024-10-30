@@ -6,9 +6,11 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className="bucket-app">
+    <div id="pageContainer">
       <Header />
-      <Body />
+      <div>
+        <Body />
+      </div>
       <Footer />
     </div>
   );
